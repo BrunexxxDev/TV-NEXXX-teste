@@ -1,0 +1,85 @@
+/* Estilos para os itens individuais */
+body {
+    background-color: grey;
+}
+#dados-container {
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.item {
+    margin-bottom: 20px;
+    /* Adiciona espaçamento entre os itens */
+    background-color: #303030;
+    /* Cor de fundo para cada item */
+    padding: 17px;
+    /* Adiciona espaçamento interno para cada item */
+    text-align: center;
+    /* Centraliza o texto dentro de cada div */
+    height: auto;
+    /* Define uma altura fixa para cada div */
+    width: 100%;
+    /* Garante que a div ocupe toda a largura disponível */
+    box-sizing: border-box;
+    /* Inclui a largura da borda na largura total da div */
+    overflow: hidden;
+    /* Esconde qualquer conteúdo que transborde da div */
+    position: relative;
+    /* Permite posicionar elementos filhos relativamente */
+
+    border-radius: 10px;
+}
+
+/* Estilos para as imagens */
+.item img {
+    display: block;
+    width: 100%;
+    max-height: 75%;
+}
+
+/* Estilos para os parágrafos que contêm o nome e o status */
+#dados-container div p {
+    margin: 0;
+    /* Remove margens padrão para garantir o alinhamento correto */
+    display: inline-block;
+    /* Permite o alinhamento vertical correto */
+}
+
+/* Estilos para os parágrafos que contêm o nome */
+p.nome {
+    color: white;
+    /* Define a cor do texto do nome como azul */
+    font-weight: bold;
+    /* Deixa o texto em negrito */
+    font-size: 18px;
+    /* Aumenta o tamanho do texto para 18 pixels */
+}
+
+/* Estilos para os parágrafos que contêm o status */
+p.status {
+    font-weight: bold;
+    color: green;
+    position: absolute;
+    /* Posiciona o elemento de forma absoluta */
+    bottom: 0;
+    /* Alinha o elemento na parte inferior */
+    right: 0;
+    /* Alinha o elemento na parte direita */
+    margin: 25px;
+    /* Adiciona margem para espaçamento */
+}
+
+.info {
+    background-color: #1F1F1F;
+    height: auto;
+    padding: 20px;
+    margin-top: 20px;
+    text-align: center;
+    overflow: hidden;
+    /* Esconde qualquer conteúdo que transborde da div */
+    position: relative;
+    /* Permite posicionar elementos filhos relativamente */
+border-radius: 10px;
+}
