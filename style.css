@@ -4,11 +4,11 @@ body {
     background-color: grey;
 }
 
-/* Contêiner dos itens */
+/* Estilos para o contêiner dos itens */
 #dados-container {
     display: flex;
     flex-wrap: wrap;
-    text-align: center;
+    justify-content: center; /* Centraliza os itens na horizontal */
     position: relative;
     margin: auto;
 }
