@@ -54,6 +54,11 @@ document.addEventListener('DOMContentLoaded', function() {
                     
                     // Adicionar a div do item ao contêiner
                     dadosContainer.appendChild(itemDiv);
+
+                    // Adicionar um evento de clique para abrir o link em uma nova aba
+                    itemDiv.addEventListener('click', function() {
+                        window.open(item.link, '_blank');
+                    });
                 });
             })
             .catch(error => console.error('Erro ao carregar os dados:', error));
