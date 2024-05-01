@@ -11,7 +11,7 @@
         "id": 4, "nome": "BandSports", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/BandSports_logo.svg/1024px-BandSports_logo.svg.png", "link": "https://reidoscanais.com/embed/?id=bandsports", "status": "on"
     },
     {
-        "id": 5, "nome": "Cartoon Network", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png?20230324164919", "link": "https://reidoscanais.com/embed/?id=cartoonnetwork", "status": "on"
+        "id": 5, "nome": "Cartoon Network", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png?20230324164919", "link": "https://reidoscanais.com/embed/?id=cartoonnetwork", "status": "off"
     },
     {
         "id": 6, "nome": "Cartoonito", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1280px-Cartoonito_-_Logo_2021.svg.png", "link": "https://reidoscanais.com/embed/?id=cartoonito", "status": "on"
@@ -53,13 +53,13 @@
         "id": 18, "nome": "ESPN 4", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png", "link": "https://reidoscanais.com/embed/?id=espn4", "status": "on"
     },
     {
-        "id": 19, "nome": "ESPN Extra", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/ESPN_Xtra_logo.svg/1200px-ESPN_Xtra_logo.svg.png", "link": "https://reidoscanais.com/embed/?id=espnextra", "status": "on"
+        "id": 19, "nome": "ESPN Extra", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/ESPN_Xtra_logo.svg/1200px-ESPN_Xtra_logo.svg.png", "link": "https://reidoscanais.com/embed/?id=espnextra", "status": "off"
     },
     {
         "id": 20, "nome": "Fish Tv", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Fish_TV_logo_2022.svg/2560px-Fish_TV_logo_2022.svg.png", "link": "https://reidoscanais.com/embed/?id=fishtv", "status": "on"
     },
     {
-        "id": 21, "nome": "Fox Sports 2", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1280px-2015_Fox_sports_logo.svg.png", "link": "https://reidoscanais.com/embed/?id=foxsports2", "status": "on"
+        "id": 21, "nome": "Fox Sports 2", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1280px-2015_Fox_sports_logo.svg.png", "link": "https://reidoscanais.com/embed/?id=foxsports2", "status": "off"
     },
     {
         "id": 22, "nome": "FX", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/FX_Logo_2023.svg/2560px-FX_Logo_2023.svg.png", "link": "https://sinalpublico.com/player3/ch.php?canal=fx", "status": "on"
@@ -113,7 +113,7 @@
         "id": 38, "nome": "History 2", "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png", "link": "https://reidoscanais.com/embed/?id=history2", "status": "on"
     },
     {
-        "id": 39, "nome": "Investigação Discovery", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1845px-Investigation_Discovery_Logo_2018.svg.png", "link": "https://reidoscanais.com/embed/?id=investigacaodiscovery", "status": "on"
+        "id": 39, "nome": "Investigação Discovery", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1845px-Investigation_Discovery_Logo_2018.svg.png", "link": "https://reidoscanais.com/embed/?id=investigacaodiscovery", "status": "off"
     },
     {
         "id": 40, "nome": "Megapix", "imagem": "https://logodownload.org/wp-content/uploads/2018/04/megapix-logo.png", "link": "https://reidoscanais.com/embed/?id=megapix", "status": "on"
@@ -131,7 +131,7 @@
         "id": 44, "nome": "Nickelodeon", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/2560px-Nick.svg.png", "link": "https://reidoscanais.com/embed/?id=nickelodeon", "status": "on"
     },
     {
-        "id": 45, "nome": "Paramount Channel", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Paramount_Pics_logo.png/800px-Paramount_Pics_logo.png", "link": "https://reidoscanais.com/embed/?id=paramountchannel", "status": "on"
+        "id": 45, "nome": "Paramount Channel", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Paramount_Pics_logo.png/800px-Paramount_Pics_logo.png", "link": "https://reidoscanais.com/embed/?id=paramountchannel", "status": "off"
     },
     {
         "id": 46, "nome": "Prime Box Brazil", "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/16/PrimeBoxBrazil2019.png", "link": "https://reidoscanais.com/embed/?id=primeboxbrazil", "status": "on"
@@ -161,7 +161,7 @@
         "id": 54, "nome": "SporTV 3", "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d3/SporTV3_2021.png", "link": "https://reidoscanais.com/embed/?id=sportv3", "status": "on"
     },
     {
-        "id": 55, "nome": "Star Chennel", "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png", "link": "https://reidoscanais.com/embed/?id=starchennel", "status": "on"
+        "id": 55, "nome": "Star Chennel", "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png", "link": "https://reidoscanais.com/embed/?id=starchennel", "status": "off"
     },
     {
         "id": 56, "nome": "Studio Universal", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/2560px-Logo_Studio_Universal.svg.png", "link": "https://reidoscanais.com/embed/?id=studiouniversal", "status": "on"
@@ -194,10 +194,10 @@
         "id": 65, "nome": "TNT", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1024px-TNT_Logo_2016.svg.png", "link": "https://reidoscanais.com/embed/?id=tnt", "status": "on"
     },
     {
-        "id": 66, "nome": "TNT Series", "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/86/TNT_Series.png", "link": "https://reidoscanais.com/embed/?id=tntseries", "status": "on"
+        "id": 66, "nome": "TNT Series", "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/86/TNT_Series.png", "link": "https://reidoscanais.com/embed/?id=tntseries", "status": "off"
     },
     {
-        "id": 67, "nome": "Tooncast", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png", "link": "https://reidoscanais.com/embed/?id=tooncast", "status": "on"
+        "id": 67, "nome": "Tooncast", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png", "link": "https://reidoscanais.com/embed/?id=tooncast", "status": "off"
     },
     {
         "id": 68,
