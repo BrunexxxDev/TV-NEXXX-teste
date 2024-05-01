@@ -1,93 +1,60 @@
-/* Estilos para os itens individuais */
+/* Estilos gerais */
 body {
+    text-align: center;
     background-color: grey;
 }
+
+/* Contêiner dos itens */
 #dados-container {
-    padding: 10px;
     display: flex;
     flex-wrap: wrap;
     text-align: center;
+    position: relative;
+    margin: auto;
 }
 
-.item {
-    margin-bottom: 20px;
-    /* Adiciona espaçamento entre os itens */
+/* Estilos para os itens individuais */
+div.item {
+    margin: 10px;
     background-color: #303030;
-    /* Cor de fundo para cada item */
-    padding: 17px;
-    /* Adiciona espaçamento interno para cada item */
-    text-align: center;
-    /* Centraliza o texto dentro de cada div */
-    height: auto;
-    /* Define uma altura fixa para cada div */
-    width: 100%;
-    /* Garante que a div ocupe toda a largura disponível */
+    padding: 10px;
+    width: 175px;
     box-sizing: border-box;
-    /* Inclui a largura da borda na largura total da div */
     overflow: hidden;
-    /* Esconde qualquer conteúdo que transborde da div */
     position: relative;
-    /* Permite posicionar elementos filhos relativamente */
-
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* Centraliza a imagem verticalmente */
     border-radius: 10px;
 }
 
 /* Estilos para as imagens */
-.item img {
+div.item img {
     display: block;
+    margin: auto;
     width: 100%;
     max-height: 75%;
+    border-radius: 10px;
 }
 
-/* Estilos para os parágrafos que contêm o nome e o status */
-#dados-container div p {
-    margin: 0;
-    /* Remove margens padrão para garantir o alinhamento correto */
-    display: inline-block;
-    /* Permite o alinhamento vertical correto */
-}
-
-/* Estilos para os parágrafos que contêm o nome */
+/* Estilos para o nome do item */
 p.nome {
     color: white;
-    /* Define a cor do texto do nome como azul */
-    font-weight: bold;
-    /* Deixa o texto em negrito */
-    font-size: 18px;
-    /* Aumenta o tamanho do texto para 18 pixels */
-}
-
-/* Estilos para os parágrafos que contêm o status */
-p.status {
-    font-weight: bold;
-    color: green;
-    position: absolute;
-    /* Posiciona o elemento de forma absoluta */
-    bottom: 0;
-    /* Alinha o elemento na parte inferior */
-    right: 0;
-    /* Alinha o elemento na parte direita */
-    margin: 25px;
-    /* Adiciona margem para espaçamento */
-}
-
-.info {
+    font-size: 17px;
     background-color: #1F1F1F;
-    height: auto;
-    padding: 20px;
-    margin-top: 20px;
-    text-align: center;
-    overflow: hidden;
-    /* Esconde qualquer conteúdo que transborde da div */
-    position: relative;
-    /* Permite posicionar elementos filhos relativamente */
-border-radius: 10px;
+    height: 17px;
+    border-radius: 10px;
+    overflow: hidden; /* Oculta o texto que transborda */
+    white-space: nowrap; /* Evita que o texto seja quebrado em várias linhas */
 }
 
-/* Estilos para a barra de pesquisa e os itens */
+
+/* Estilos para a barra de pesquisa */
 #searchInput {
+    font-weight: bold;
     width: 100%;
     padding: 10px;
     margin-bottom: 20px;
     box-sizing: border-box;
+    border-radius: 50px;
 }
